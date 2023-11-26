@@ -1,2 +1,2 @@
 # vvar-oni
-Mono-repo for VVAR's Office of Naval Intelligenc
+Mono-repo for VVAR's Office of Naval Intelligence
