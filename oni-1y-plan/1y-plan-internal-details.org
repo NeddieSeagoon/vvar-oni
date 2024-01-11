@@ -1,0 +1,104 @@
+#+title: OI 1 Year Plan
+* 1 Year Plan
+** 1y Goals Summary
+*** Overall Objectives
+- Provide data and insights to fleet leadership on:
+  + game mechanics (for use in development of SOPs and TTPs etc, as needed for specific operations)
+  + org member metrics (member retention, engagement, etc)
+  + ingame intelligence (activities, contacts, etc of players ingame)
+  + out-of-game intelligence (activities/relationships of other orgs, competitor analysis, threat assessment/intervention)
+- Build intelligence-related tools to enhance fleet capabilities
+- Maintain KISS
+*** Recruitment Goals
+- 1-3 additional competent, motivated, willing-to-learn members by 2025
+*** Missions/Ops planned
+-
+- ongoing and/or repeating training/development and admin-focused missions monthly
+- see [[*Missions/operations planned]]
+
+** Training and Development
+*** Plans to train and develop ONI members
+- run minimum 1 training event per month, duplicated (or recorded) if availability is split
+- create and maintain reference material for async reference
+*** Planned resources/support for skill/knowledge acquisition
+- ONI internal wiki/graph
+- internal text channels/forum pages
+*** Certs/qualifications?
+- TBD during Q1
+*** Skill/knowledge outcome goals
+- experiment design
+- hypothesis testing
+- personnel analytics
+- dataviz and dashboarding
+- more TBD as encountered
+
+** Operational Procedures
+*** SOPs to be developed
+**** intel gathering (Q1)
+- checklists/templates for different types of intelligence/data
+- ethics and ROE with sensitive data
+- guidelines for when/how tasks should be passed off to Recon
+**** analysis (Q1)
+- as follow-on with data collected by ONI (primary)
+- flowchart/checklist for analysis type and requirements
+- determining when conclusive insights are possible vs more data is needed
+**** dissemination (Q2)
+- tie-in to INFOSEC system
+- timeline
+- writing guidelines
+  + technical language
+  + clarity and concision
+- templates for different INFOSEC levels
+- templates for non-text products (imagery etc)
+****  INFOSEC system for determining and securing sensitive intel (Q1)
+- set security levels
+- flowchart/checklist for determining INFOSEC level
+*** communication (tools/platforms)
+**** within ONI
+- see [[*Github (Q1)]]
+**** RFI flow development
+- see [[*RFI Submission (Q1)]]
+**** between ONI and other units
+- TBD during Q1
+
+** Missions/Operations
+*** ONI engaging in training or simulated exercises?
+- TBD during Q1
+*** real or potential threats and associated plans
+**** Orgs/players (Q1)
+- catalogue known org and individual threats
+- produce recurring plans to discover and track threats
+*** Missions/operations planned
+**** 
+
+** Technology and Tool Development
+*** Tool development plans
+**** internal to ONI
+***** Github (Q1)
+- task/project tracking
+- geared toward ONI members (clarity/specificity over brevity)
+**** for fleet-wide use
+***** RFI Submission (Q1)
+- discord bot app command
+***** RFI search (Q2)
+- to avoid duplication when submitting
+***** current intel repository (Q3?)
+- wiki or other graph
+
+** Logistics and Budgeting
+*** estimation of ONI budget needs (aUEC and human hours)
+**** aUEC (tracked roughly)
+- roughly 10-15 million *per patch*
+- almost certainly covered by individual members unless typical gameplay income changes significantly
+**** Human Hours (not currently tracked)
+- 5-50 per week, split between members, weighted toward leadership
+
+** Review and Assessment
+*** How often will the 1y plan's progress be assessed?
+- Assessed monthly at end of month
+*** How will success be measured?
+- Projects completed in assigned quarter
+- ONI keeping up with fleet needs (backlog size staying stable)
+*** How much adjustment to the plan will be permitted at the time of assessment, to deal with progress and changing circumstances?
+- Projects may be moved within quarters as needed
+- Delaying projects to a future quarter should be avoided (discuss w/ fleetcom)
