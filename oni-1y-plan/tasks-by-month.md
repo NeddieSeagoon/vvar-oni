@@ -1,8 +1,8 @@
-## ONI 1Y Plan (organized by month)
+# ONI 1Y Plan (organized by month)
 ***
 Subject to change, but intended to exemplify what ONI's activities should roughly look like month-to-month.
 ***
-#### January
+### January
 Tasks:
 - Standards Creation 
     - Imagery Products
@@ -17,7 +17,7 @@ Recurring/General Tasks:
 - 1-2x testing for RFIs *(partial month)*
 - proactive R&D
 ***
-#### February
+### February
 Tasks:
 - Member Analytics
     - Discovery (research)
@@ -30,7 +30,7 @@ Recurring/General Tasks:
 - 1-4x testing for RFIs
 - proactive R&D
 ***
-#### March
+### March
 Tasks:
 - Member Analytics
     - Q1 detailed report
@@ -45,7 +45,7 @@ Recurring/General Tasks:
 - 1-4x testing for RFIs
 - proactive R&D
 ***
-#### April
+### April
 Tasks:
 - Member Analytics
     - finalize auto reporting
@@ -58,7 +58,7 @@ Recurring/General Tasks:
 - 1-4x testing for RFIs
 - proactive R&D
 ***
-#### May
+### May
 Tasks:
 - Standards Creation
     - INFOSEC standard/SOP
@@ -71,10 +71,12 @@ Recurring/General Tasks:
 - 1-4x testing for RFIs
 - proactive R&D
 ***
-#### June
+### June
 Tasks:
 - Member Analytics
     - Q2 detailed report
+- Skills training
+    - Member skillset alignment
 Recurring/General Tasks:
 - 1x Member Analytics Report
 - 1x Skills Training
@@ -84,9 +86,9 @@ Recurring/General Tasks:
 - 1-4x testing for RFIs
 - proactive R&D
 ***
-#### July
+### July
 Tasks:
-- 
+- TBD
 Recurring/General Tasks:
 - 1x Member Analytics Report
 - 1x Skills Training
@@ -96,9 +98,9 @@ Recurring/General Tasks:
 - 1-4x testing for RFIs
 - proactive R&D
 ***
-#### August
+### August
 Tasks:
-- 
+- TBD
 Recurring/General Tasks:
 - 1x Member Analytics Report
 - 1x Skills Training
@@ -108,7 +110,7 @@ Recurring/General Tasks:
 - 1-4x testing for RFIs
 - proactive R&D
 ***
-#### September
+### September
 Tasks:
 - Member Analytics
     - Q3 detailed report
@@ -121,9 +123,9 @@ Recurring/General Tasks:
 - 1-4x testing for RFIs
 - proactive R&D
 ***
-#### October
+### October
 Tasks:
-- 
+- TBD
 Recurring/General Tasks:
 - 1x Member Analytics Report
 - 1x Skills Training
@@ -133,9 +135,9 @@ Recurring/General Tasks:
 - 1-4x testing for RFIs
 - proactive R&D
 ***
-#### November
+### November
 Tasks:
-- 
+- TBD
 Recurring/General Tasks:
 - 1x Member Analytics Report
 - 1x Skills Training
@@ -145,7 +147,7 @@ Recurring/General Tasks:
 - 1-4x testing for RFIs
 - proactive R&D
 ***
-#### December
+### December
 Tasks:
 - Member Analytics
     - Q4 detailed report
