@@ -9,6 +9,7 @@ Tasks:
 - Security Measures development 
     - new member vetting
 - RFI collation/triage
+<br>
 Recurring/General Tasks:
 - 1x Skills Training
 - 1x Data Organization *(partial month)*
@@ -22,6 +23,7 @@ Tasks:
 - Member Analytics
     - Discovery (research)
     - Initial plan
+<br>
 Recurring/General Tasks:
 - 1x Skills Training
 - 2x Data Organization
@@ -37,6 +39,7 @@ Tasks:
     - begin auto report setup
 - Standards Creation 
     - Reporting (RFIs, R&D reports, etc)
+<br>
 Recurring/General Tasks:
 - 1x Skills Training
 - 2x Data Organization
@@ -50,6 +53,7 @@ Tasks:
 - Member Analytics
     - finalize auto reporting
 
+<br>
 Recurring/General Tasks:
 - 1x Skills Training
 - 2x Data Organization
@@ -62,6 +66,7 @@ Recurring/General Tasks:
 Tasks:
 - Standards Creation
     - INFOSEC standard/SOP
+<br>
 Recurring/General Tasks:
 - 1x Member Analytics Report
 - 1x Skills Training
@@ -77,6 +82,7 @@ Tasks:
     - Q2 detailed report
 - Skills training
     - Member skillset alignment
+<br>
 Recurring/General Tasks:
 - 1x Member Analytics Report
 - 1x Skills Training
@@ -89,6 +95,7 @@ Recurring/General Tasks:
 ### July
 Tasks:
 - TBD
+<br>
 Recurring/General Tasks:
 - 1x Member Analytics Report
 - 1x Skills Training
@@ -101,6 +108,7 @@ Recurring/General Tasks:
 ### August
 Tasks:
 - TBD
+<br>
 Recurring/General Tasks:
 - 1x Member Analytics Report
 - 1x Skills Training
@@ -114,6 +122,7 @@ Recurring/General Tasks:
 Tasks:
 - Member Analytics
     - Q3 detailed report
+<br>
 Recurring/General Tasks:
 - 1x Member Analytics Report
 - 1x Skills Training
@@ -126,6 +135,7 @@ Recurring/General Tasks:
 ### October
 Tasks:
 - TBD
+<br>
 Recurring/General Tasks:
 - 1x Member Analytics Report
 - 1x Skills Training
@@ -138,6 +148,7 @@ Recurring/General Tasks:
 ### November
 Tasks:
 - TBD
+<br>
 Recurring/General Tasks:
 - 1x Member Analytics Report
 - 1x Skills Training
@@ -152,6 +163,7 @@ Tasks:
 - Member Analytics
     - Q4 detailed report
     - Year End report
+<br>
 Recurring/General Tasks:
 - 1x Member Analytics Report
 - 1x Skills Training
